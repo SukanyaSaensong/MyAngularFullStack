@@ -1,0 +1,19 @@
+{
+  "name": "sukanya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukanyaSaensong/MyAngularFullStack.git"
+  },
+  "author": "SukanyaSaensong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SukanyaSaensong/MyAngularFullStack/issues"
+  },
+  "homepage": "https://github.com/SukanyaSaensong/MyAngularFullStack#readme"
+}
